@@ -8,6 +8,8 @@ import IMG5 from '../../assets/portfolio5.jpg'
 import IMG6 from '../../assets/portfolio6.jpg'
 import IMG7 from '../../assets/portfolio7.jpg'
 import IMG8 from '../../assets/portfolio8.jpg'
+import IMG9 from '../../assets/portfolio9.jpeg'
+import IMG10 from '../../assets/portfolio10.jpg'
 
 
 const data = [
@@ -74,6 +76,20 @@ demo:'https://azol-birthdays-remainder.netlify.app/'
             title:'Accordion',
             github:'https://github.com/ayinde1993/accordion-project',
             demo:'https://azol-accordion.netlify.app'
+            },
+              {
+            id:9,
+            image: IMG9,
+            title:'text Generator',
+            github:'https://github.com/ayinde1993/lorem-ipsum-generator',
+            demo:'https://azol-text-generator.netlify.app'
+            },
+              {
+            id:10,
+            image: IMG10,
+            title:'Color Generator',
+            github:'https://github.com/ayinde1993/color-ganarator',
+            demo:'https://azol-color-ganarator.netlify.app/'
             },
 ]
 

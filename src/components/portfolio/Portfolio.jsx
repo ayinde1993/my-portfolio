@@ -16,17 +16,17 @@ const data = [
   {
 id:1,
 image: IMG1,
-title:'Birthdays Reminder',
-github:'https://github.com/ayinde1993/birthday-reminder-app',
-demo:'https://azol-birthdays-remainder.netlify.app/'
+title:'grocery bud',
+github:'https://github.com/ayinde1993/grocery-bud',
+demo:'https://azol93-grocery-bud.netlify.app/'
 },
 
 {
   id:2,
-  image: IMG2,
-  title:'Tours App',
-  github:'https://github.com/ayinde1993/tour-app',
-  demo:'https://azol-tour-app.netlify.app/'
+  image: IMG8,
+  title:'stripe clone',
+  github:'https://github.com/ayinde1993/stripe-clone',
+  demo:'https://azol-stripe-clone.netlify.app/'
   },
 
   {
@@ -61,14 +61,13 @@ demo:'https://azol-birthdays-remainder.netlify.app/'
           demo:'https://azol-jobs-tabs.netlify.app'
           },
 
-
-        {
-          id:7,
-          image: IMG8,
-          title:'Subscribers App',
-          github:'https://github.com/ayinde1993/subscribers-app',
-          demo:'https://azol-subscribers.netlify.app'
-          },
+          {
+            id:7,
+            image: IMG2,
+            title:'Tours App',
+            github:'https://github.com/ayinde1993/tour-app',
+            demo:'https://azol-tour-app.netlify.app/'
+            },
 
           {
             id:8,
@@ -77,6 +76,7 @@ demo:'https://azol-birthdays-remainder.netlify.app/'
             github:'https://github.com/ayinde1993/accordion-project',
             demo:'https://azol-accordion.netlify.app'
             },
+          
               {
             id:9,
             image: IMG9,
